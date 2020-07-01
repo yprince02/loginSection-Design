@@ -114,19 +114,6 @@ form{
 .input-div:after{
 	left: 50%;
 }
-/* 
-.input-div.focus:before, .input-div.focus:after{
-	width: 50%;
-}
-
-.input-div.focus > div > h5{
-	top: -5px;
-	font-size: 15px;
-}
-
-.input-div.focus > .i > i{
-	color: #38d39f;
-} */
 
 .input-div > div > input{
 	position: absolute;
